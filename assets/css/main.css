@@ -696,6 +696,8 @@ section,
   font-family: var(--heading-font);
 }
 
+
+
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
@@ -922,6 +924,10 @@ section,
 
 .interests .features-item:hover h3 a {
   color: var(--accent-color);
+}
+
+.interests .features-item img {
+  margin-right: 14px;
 }
 
 /*--------------------------------------------------------------
