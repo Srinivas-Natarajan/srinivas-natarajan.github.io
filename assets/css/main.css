@@ -681,6 +681,11 @@ section,
   font-family: var(--heading-font);
 }
 
+.subsection-title {
+  padding-bottom: 10px;
+  position: relative;
+}
+
 .subsection-title h3{
   color: var(--heading-color);
   margin: 0;
