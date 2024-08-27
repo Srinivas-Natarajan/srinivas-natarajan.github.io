@@ -646,7 +646,7 @@ section,
 # Global Section Titles
 --------------------------------------------------------------*/
 .section-title {
-  padding-bottom: 60px;
+  /* padding-bottom: 60px; */
   position: relative;
 }
 
@@ -929,6 +929,7 @@ section,
 
 .interests .features-item img {
   margin-right: 14px;
+  height: 42px;
 }
 
 /*--------------------------------------------------------------
